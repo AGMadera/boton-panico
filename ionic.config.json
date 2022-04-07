@@ -1,0 +1,8 @@
+{
+  "name": "Boton Panico",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "3b81c876"
+}

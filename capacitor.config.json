@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Boton Panico",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
